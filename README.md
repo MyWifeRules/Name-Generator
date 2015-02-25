@@ -4,7 +4,7 @@ Name Generator (TM)
 
  There is no guarantee that the randomly generated names will make sense, but I have gone to great lengths to make sure they generate in a syntatically appropriate manner.
 
-Name Generator works on the command line, or can be integrated into games. Name Generator is featured in the upcoming game "SpaceCase".
+Name Generator is written in JAVA and works on the command line, or can be integrated into games. Name Generator is featured in the upcoming game "SpaceCase".
 
 Name Generator (TM)
 (C) Nicholas M Marlowe 2015
